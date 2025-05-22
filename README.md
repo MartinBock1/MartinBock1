@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Frotend:</p>
+<p align="left">Frontend:</p>
 
 ###
 
