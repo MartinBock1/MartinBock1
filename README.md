@@ -1,4 +1,4 @@
-<h1 align="left">Martin Bock - Entwickler | Webentwickler</h1>
+<h1 align="left">Martin Bock - Developer | Webdeveloper</h1>
 
 ###
 
