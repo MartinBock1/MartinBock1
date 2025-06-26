@@ -58,3 +58,9 @@
 <img src="https://raw.githubusercontent.com/MartinBock1/MartinBock1/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MartinBock1/count.svg?"  />
+</div>
+
+###
