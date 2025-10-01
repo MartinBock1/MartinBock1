@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Martin Bock, a certified web developer with a focus on modern front-end technologies such as HTML, CSS, JavaScript and Angular. I am currently learning various back-end technologies such as Python, Django and how to work with databases such as SQLite, PostgreSQL and Redis. In my daily work, I focus on essential concepts and best practices.</p>
+<p align="left">Hi, I'm Martin Bock, a certified web developer with a focus on modern front-end technologies such as HTML, CSS, JavaScript and Angular. I also use various back-end technologies such as Python, Django and I work with databases such as SQLite, PostgreSQL and Redis. In my daily work, I focus on essential concepts and best practices.</p>
 
 ###
 
